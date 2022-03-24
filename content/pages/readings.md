@@ -38,7 +38,7 @@ O'Hanlon, Michael E. _The Science of War: Defense Budgeting, Military Technology
 
 _Context of American Defense Planning_
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["Global Trends 2030: Alternative Worlds." (PDF - 23.1MB)](https://globaltrends2030.files.wordpress.com/2012/11/global-trends-2030-november2012.pdf) _National Intelligence Council_ (2012): ixiv.
+ ["Global Trends 2030: Alternative Worlds." (PDF - 23.1MB)](https://globaltrends2030.files.wordpress.com/2012/11/global-trends-2030-november2012.pdf) _National Intelligence Council_ (2012): ixiv.
 
 "[Long Term Implications of the 2014 Future Years Defense Program](https://www.cbo.gov/publication/44683)." Congressional Budget Office (2013): 1–4.
 
@@ -86,12 +86,12 @@ Brooks, Stephen G., G. John Ikenberry, et al. "[Lean Forward: In Defense of Amer
 Slaughter, Anne-Marie, Bruce W. Jentleson, et al. "[Strategic Leadership: Framework for a 21st Century National Security Strategy](http://www.cnas.org/publications/reports/strategic-leadership-framework-for-a-21st-century-national-security-strategy#.Vea8rZcXu74)." _Center for a New American Security_ (2008): 9–32.
 
 Compare:  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["National Security Strategy of the United States of America." (PDF)](http://www.state.gov/documents/organization/63562.pdf) 2002.  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["National Security Strategy of the United States of America." (PDF 1.5MB)](https://obamawhitehouse.archives.gov/sites/default/files/rss_viewer/national_security_strategy.pdf) 2010.
+["National Security Strategy of the United States of America." (PDF)](http://www.state.gov/documents/organization/63562.pdf) 2002.  
+["National Security Strategy of the United States of America." (PDF 1.5MB)](https://obamawhitehouse.archives.gov/sites/default/files/rss_viewer/national_security_strategy.pdf) 2010.
 
 ### **Recommended**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The National Military Strategy of the United States America." (PDF)](http://www.jcs.mil/Portals/36/Documents/Publications/2015_National_Military_Strategy.pdf) 2011.
+["The National Military Strategy of the United States America." (PDF)](http://www.jcs.mil/Portals/36/Documents/Publications/2015_National_Military_Strategy.pdf) 2011.
 
 Gaddis, John Lewis. Chapters 2 and 12 in _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with [Google Books](http://books.google.com/books?id=IMB3ibWy2CkC&pg=PAfrontcover)\]
 
@@ -119,7 +119,7 @@ Biddle, Stephen. "[Strategy in War](http://dx.doi.org/10.1017/S1049096507070941)
 
 ———. Chapter 3 in _Military Power: Explaining Victory and Defeat in Modern Battle_. Princeton University Press, 2006, pp. 28–51. ISBN: 9780691128023.
 
-Mearsheimer, John J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Why the Soviets Can't Win Quickly in Central Europe." (PDF 3.6MB)](http://mearsheimer.uchicago.edu/pdfs/A0006.pdf) _International Security_ 7, no. 1 (1982): 44–78.
+Mearsheimer, John J. ["Why the Soviets Can't Win Quickly in Central Europe." (PDF 3.6MB)](http://mearsheimer.uchicago.edu/pdfs/A0006.pdf) _International Security_ 7, no. 1 (1982): 44–78.
 
 Posen, Barry R. "The Balance of Ground Forces on the Central Front." Chapter 3 in _Inadvertent Escalation: Conventional War and Nuclear Risks_. Cornell University Press, 2013, pp. 68–128. ISBN: 9780801478857. \[Preview with [Google Books](http://books.google.com/books?id=nveiS7HeqQUC&pg=PA68=onepage)\]
 
@@ -127,7 +127,7 @@ Cohen, Eliot. "[Toward Better Net Assessment: Rethinking the European Convention
 
 ### **Recommended**
 
-For responses to Cohen's critique, and Cohen's defense, review the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Correspondence." (PDF - 5.4MB)](http://mearsheimer.uchicago.edu/pdfs/A0012.pdf) _International Security_ 13, no. 4 (1989).
+For responses to Cohen's critique, and Cohen's defense, review the ["Correspondence." (PDF - 5.4MB)](http://mearsheimer.uchicago.edu/pdfs/A0012.pdf) _International Security_ 13, no. 4 (1989).
 
 Central Intelligence Agency. _CIA Analysis of the Warsaw Pact Forces: The Importance of Clandestine Reporting_. Edited by Joan Bird and John Bird. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781497352377.
 
@@ -225,7 +225,7 @@ Intelligence and Military Operations
 
 ### **Required**
 
-Skim: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Commission on the Intelligence Capabilities of the U.S. Regarding Weapons of Mass Destruction (PDF - 3.3MB)](https://www.nytimes.com/packages/pdf/politics/20050331_wmd_report.pdf) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appendix C: An Intelligence Community Primer" (PDF)](http://www.gpo.gov/fdsys/pkg/GPO-WMD/pdf/GPO-WMD-1-24.pdf) (2005).
+Skim: [The Commission on the Intelligence Capabilities of the U.S. Regarding Weapons of Mass Destruction (PDF - 3.3MB)](https://www.nytimes.com/packages/pdf/politics/20050331_wmd_report.pdf) and ["Appendix C: An Intelligence Community Primer" (PDF)](http://www.gpo.gov/fdsys/pkg/GPO-WMD/pdf/GPO-WMD-1-24.pdf) (2005).
 
 Skim: Daggett, Steve. "[The U.S. Intelligence Budget: A Basic Overview](https://irp.fas.org/crs/RS21945.pdf)." Congressional Research Service (2004).
 
@@ -243,7 +243,7 @@ Woods, Kevin, James Lacey, et al. "[Saddam's Delusions: The View from the Inside
 
 Nye, Joseph, and William Owens. "[America's Information Edge](https://www.foreignaffairs.com/articles/united-states/1996-03-01/americas-information-edge)." _Foreign Affairs_, 1996.
 
-Wallace, Lieutenant General William S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Network-enabled Battle Command](http://connection.ebscohost.com/c/articles/18049996/network-enabled-battle-command)." _Military Review_ 85, no. 3 (2005): 2.
+Wallace, Lieutenant General William S. "[Network-enabled Battle Command](http://connection.ebscohost.com/c/articles/18049996/network-enabled-battle-command)." _Military Review_ 85, no. 3 (2005): 2.
 
 Pillar, Paul R. "[Intelligence, Policy, and the War in Iraq](https://www.foreignaffairs.com/articles/iraq/2006-03-01/intelligence-policyand-war-iraq)." _Foreign Affairs_ 85, no. 2 (2006): 15–27.
 
@@ -283,7 +283,7 @@ Admiral (retired), and Sandy Woodward. _One Hundred Days: The Memoirs of the Fal
 
 Jewell, Angelyn, et al. "[USS Nimitz and Carrier Airwing Nine Surge Demonstration](https://apps.dtic.mil/dtic/tr/fulltext/u2/a362472.pdf)." Center for Naval Analyses Alexandria, VA (1998): 3–13, 25–29, and 121–49.
 
-Rubel, Robert C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Future of Aircraft Carriers." (PDF)](https://apps.dtic.mil/sti/pdfs/ADA619261.pdf) _Naval War College Review_ 64, no. 4 (2011): 13–27.
+Rubel, Robert C. ["The Future of Aircraft Carriers." (PDF)](https://apps.dtic.mil/sti/pdfs/ADA619261.pdf) _Naval War College Review_ 64, no. 4 (2011): 13–27.
 
 _Anti-submarine Warfare (ASW)_
 
@@ -357,7 +357,7 @@ For orientation, skim: Gordon, Michael, and Bernard Trainor. Chapters 13 and 14 
 
 Boot, Max. "[The New American Way of War](https://www.foreignaffairs.com/articles/united-states/2003-07-01/new-american-way-war)." _Foreign Affairs_ 82, no. 4 (2003): 41–58.
 
-Biddle, Stephen, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Toppling Saddam: Iraq and American Military Transformation." (PDF - 4.5MB)](https://fas.org/man/eprint/biddle.pdf) U.S. Army War College (2004).
+Biddle, Stephen, et al. ["Toppling Saddam: Iraq and American Military Transformation." (PDF - 4.5MB)](https://fas.org/man/eprint/biddle.pdf) U.S. Army War College (2004).
 
 Gordon IV, John, and Bruce Pirnie. "['Everybody Wanted Tanks': Heavy Forces in Operation Iraqi Freedom](https://www.questia.com/magazine/1G1-138538563/everybody-wanted-tanks-heavy-forces-in-operation)." _Joint Forces Quarterly_, no. 39 (2005).
 
@@ -371,7 +371,7 @@ Keaney, Thomas A. "[The Linkage of Air and Ground Power in the Future of Conflic
 
 Fontenot, Gregory, E. J. Degen, and David Tohn. Chapters 3–6 in _On Point: The United States Army in Operation Iraqi Freedom_. Combat Studies Institute, 2004. (Skim these pages to get a sense of how the campaign unfolded. Also review maps and other graphics in these sections.)
 
-Moseley, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Operation Iraqi Freedom: By the Numbers." (PDF)](http://www.afhso.af.mil/shared/media/document/AFD-130613-025.pdf) U.S. Air Force Assessment and Analysis Division (2003).
+Moseley, Michael. ["Operation Iraqi Freedom: By the Numbers." (PDF)](http://www.afhso.af.mil/shared/media/document/AFD-130613-025.pdf) U.S. Air Force Assessment and Analysis Division (2003).
 
 Cohen, Eliot. "[Change and Transformation in Military Affairs](http://dx.doi.org/10.1080/1362369042000283958)." _Journal of Strategic Studies_ 27, no. 3 (2004): 395–407.
 
@@ -409,7 +409,7 @@ Cole, Juan. "[_Iraq's Three Civil Wars_](https://techtv.mit.edu/videos/42-juan-c
 
 Filkins, Dexter. "[In Falluja, Young Marines Saw the Savagery of an Urban War](http://www.nytimes.com/2004/11/21/world/middleeast/in-falluja-young-marines-saw-the-savagery-of-an-urban-war.html?_r=0)," _The New York Times_, November 21, 2004.
 
-Ollivant, Douglas A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Countering the New Orthodoxy: Reinterpreting Counterinsurgency in Iraq," (PDF)](https://static.newamerica.org/attachments/4344-countering-the-new-orthodoxy/Ollivant_Reinterpreting_Counterinsurgency.5d769bb8f672493a9fd1086919de9f51.pdf) _National Security Studies Program Policy Paper,_ 2011. (New America Foundation)
+Ollivant, Douglas A. ["Countering the New Orthodoxy: Reinterpreting Counterinsurgency in Iraq," (PDF)](https://static.newamerica.org/attachments/4344-countering-the-new-orthodoxy/Ollivant_Reinterpreting_Counterinsurgency.5d769bb8f672493a9fd1086919de9f51.pdf) _National Security Studies Program Policy Paper,_ 2011. (New America Foundation)
 
 _Afghanistan_
 
@@ -514,7 +514,7 @@ Sagan, Scott. "[The Perils of Proliferation: Organization Theory, Deterrence The
 
 Posen, Barry R. "[U.S. Security Policy in a Nuclear Armed World](http://dx.doi.org/10.1080/09636419708429313)." _Security Studies_ 6, no. 3 (1997): 1–31.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Nuclear-Armed Iran: A Difficult But Not Impossible Policy Problem." (PDF)](http://web.mit.edu/cis/pdf/posen_frenchcen.pdf) The Century Foundation, 2006.
+———. ["A Nuclear-Armed Iran: A Difficult But Not Impossible Policy Problem." (PDF)](http://web.mit.edu/cis/pdf/posen_frenchcen.pdf) The Century Foundation, 2006.
 
 Kroenig, Matthew. "[Time to Attack Iran](https://www.foreignaffairs.com/articles/middle-east/2012-01-01/time-attack-iran)." _Foreign Affairs_ 91, no. 1 (2012).
 

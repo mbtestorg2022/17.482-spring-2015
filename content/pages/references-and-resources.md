@@ -32,7 +32,7 @@ Krause, Peter. "[The Last Good Chance: A Reassessment of U.S. Operations at Tora
 
 Raas, Whitney, and Austin Long. "[Osirak Redux? Assessing Israeli Capabilities to Destroy Iranian Nuclear Facilities](https://muse.jhu.edu/article/213649)." _International Security_ 31, no. 4 (2007): 7–33.
 
-Stillion, John, and Scott Perdue. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](https://www.defenseindustrydaily.com/files/2008_RAND_Pacific_View_Air_Combat_Briefing.pdf)["Air Combat Past, Present, and Future." (PDF - 5.3MB)](https://www.defenseindustrydaily.com/files/2008_RAND_Pacific_View_Air_Combat_Briefing.pdf) August 2008. For a summary, see: Minnick, Wendell. "[RAND Study Suggests U.S. Loses War with China](https://www.strategypage.com/militaryforums/30-103539.aspx#startofcomments)." DefenseNews.com, 16 October 2008.
+Stillion, John, and Scott Perdue. [](https://www.defenseindustrydaily.com/files/2008_RAND_Pacific_View_Air_Combat_Briefing.pdf)["Air Combat Past, Present, and Future." (PDF - 5.3MB)](https://www.defenseindustrydaily.com/files/2008_RAND_Pacific_View_Air_Combat_Briefing.pdf) August 2008. For a summary, see: Minnick, Wendell. "[RAND Study Suggests U.S. Loses War with China](https://www.strategypage.com/militaryforums/30-103539.aspx#startofcomments)." DefenseNews.com, 16 October 2008.
 
 Epstein, Joshua. _Measuring Military Power: The Soviet Air Threat to Europe_. Princeton University Press, 1984. ISBN: 9780691076713.
 
@@ -82,7 +82,7 @@ _Iraq_:
 
 Petraeus, Gen. David H. [Report to Congress on the Situation in Iraq (PDF)](http://www.comw.org/warreport/fulltext/070911petraeus.pdf) and [accompanying charts (PDF)](http://www.longwarjournal.org/multimedia/General%20Petraeus%20Testimony%20Slides%2010%20September%202007.pdf), (2007).
 
-National Security Council. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Highlights of the Iraq Strategy Review: Summary Briefing Slides (PDF)](https://2001-2009.state.gov/documents/organization/78696.pdf) (2007).
+National Security Council. [Highlights of the Iraq Strategy Review: Summary Briefing Slides (PDF)](https://2001-2009.state.gov/documents/organization/78696.pdf) (2007).
 
 _Afghanistan_:
 
